@@ -1,5 +1,5 @@
 # bmw_sales_analysis
-Projet visant à analyser la transition énergétique de BMW en fonction des ventes mondiales entre 2010 et 2014
+BMW Global Sales Analysis (2010–2024)
 
 ## Overview
 
@@ -82,12 +82,16 @@ This dataset contains intentional inconsistencies, as required by the assignment
 - PowerBI
 
 ## Installation
+```
 git clone https://github.com/lordflex01/bmw_sales_analysis.git
 cd bmw_sales_analysis
 pip install -r requirements.txt
+```
 
 ## Run the Notebook
+```
 jupyter notebook projet_python.ipynb
+```
 
 ## Author
 Project created as part of a data analysis assignment.
